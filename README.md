@@ -11,4 +11,4 @@ In the first part, you will find a sample project fully developed in an ml.m4.4x
 
 In the second part of this workshop we will implement this project in production automatizing it's execution using a combination of CloudWatch, Step Functions, Lambda, Glue and SageMaker.
 
-<img src='implementation-with-step-func/steps.png'></img>
+You can also perform this implementation step by using the following <a href='https://www.sagemakerworkshop.com/step/'>online tutorial<a/>
